@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "all these years",
+  "base_artist": "Kenichiro Nishihara",
+  "createdAt": "2026-02-20T03:35:13.415966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All These Years",
+      "artist": "Sawyer Brown",
+      "has_synced": true,
+      "path": "select/01_All_These_Years_Sawyer_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Silent all these years",
+      "artist": "孫燕姿 feat. Mark",
+      "has_synced": false,
+      "path": "select/02_Silent_all_these_years_孫燕姿_feat._Mark.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Silent All These Years",
+      "artist": "孙燕姿",
+      "has_synced": false,
+      "path": "select/03_Silent_All_These_Years_孙燕姿.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "After All These Years",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/04_After_All_These_Years_Journey.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "After All These Years",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/05_After_All_These_Years_Journey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Still Crazy After All These Years - Live",
+      "artist": "Simon & Garfunkel",
+      "has_synced": true,
+      "path": "select/06_Still_Crazy_After_All_These_Years_-_Live_Simon_&_Garfunkel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "For All These Years",
+      "artist": "Tanita Tikaram",
+      "has_synced": true,
+      "path": "select/07_For_All_These_Years_Tanita_Tikaram.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Silent All These Years",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/08_Silent_All_These_Years_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Silent All These Years",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/09_Silent_All_These_Years_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Silent All These Years",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/10_Silent_All_These_Years_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Silent All These Years",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/11_Silent_All_These_Years_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Still Crazy After All These Years",
+      "artist": "Simon & Garfunkel",
+      "has_synced": false,
+      "path": "select/12_Still_Crazy_After_All_These_Years_Simon_&_Garfunkel.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "After All These Years",
+      "artist": "Silverchair",
+      "has_synced": true,
+      "path": "select/13_After_All_These_Years_Silverchair.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "After All These Years ( + Hidden Track \"Outro\")",
+      "artist": "Silverchair",
+      "has_synced": true,
+      "path": "select/14_After_All_These_Years_(_+_Hidden_Track__Outro_)_Silverchair.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "After All These Years (+ Hidden Track \"Outro\")",
+      "artist": "Silverchair",
+      "has_synced": true,
+      "path": "select/15_After_All_These_Years_(+_Hidden_Track__Outro_)_Silverchair.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All These Years",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/16_All_These_Years_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Silent All These Years (Remastered)",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/17_Silent_All_These_Years_(Remastered)_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Silent All These Years (2015 Remaster)",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/18_Silent_All_These_Years_(2015_Remaster)_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Still Crazy After All These Years",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/19_Still_Crazy_After_All_These_Years_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Still Crazy After All These Years",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/20_Still_Crazy_After_All_These_Years_Paul_Simon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "all these years",
+      "artist": "Kenichiro Nishihara",
+      "has_synced": false,
+      "path": "select/pl_01_all_these_years_Kenichiro_Nishihara.txt"
+    }
+  ]
+}
